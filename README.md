@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/logo.png" alt="DevRadar" width="250px"/>
+  <img src=".github/logo.svg" alt="DevRadar" width="250px"/>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ Semana OmniStack 10.0 🚀
 </h3>
 
 ## Web
-<img src=".github/Frontend.svg" alt="Web"/>
+<img src=".github/Frontend.png" alt="Web"/>
 
 ## 🚀 Tecnologias
 
