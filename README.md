@@ -11,7 +11,7 @@ Semana OmniStack 10.0 🚀
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 ## Web
-<img src=".github/Frontend.svg" alt="Web"/>
+<img src=".github/Frontend.png" alt="Web"/>
 
 
 ## Mobile
